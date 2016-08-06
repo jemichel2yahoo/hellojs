@@ -1,0 +1,14 @@
+{
+  "name": "hellojs",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Jeff Michel",
+  "license": "ISC",
+  "dependencies": {
+    "express": ">2.0.0"
+  }
+}
